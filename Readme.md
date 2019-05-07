@@ -1,7 +1,7 @@
-﻿# Личный проект «Седона»
+# Личный проект «Седона»
 
 * Студент: [OLGA AVRAMENKO](https://up.htmlacademy.ru/htmlcss/25/user/89110).
-* Наставник: [АЛЕКСЕЙ 1 МАЛЕЙКОВ](https://up.htmlacademy.ru/htmlcss/25/user/4839).
+* Наставник: [АЛЕКСЕЙ  МАЛЕЙКОВ](https://up.htmlacademy.ru/htmlcss/25/user/4839).
 
 ---
 
